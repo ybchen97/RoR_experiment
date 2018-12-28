@@ -29,3 +29,7 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Ignore additional stuff
+/.blog_test.sublime-project
+/.blog_test.sublime-workspace
