@@ -31,5 +31,5 @@
 /config/master.key
 
 # Ignore additional stuff
-/.blog_test.sublime-project
-/.blog_test.sublime-workspace
+/blog_test.sublime-project
+/blog_test.sublime-workspace
