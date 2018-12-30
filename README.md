@@ -4,7 +4,7 @@ Name: Chen Yuan Bo
 Matric No.: A0183156A
 
 # Rails Start Up Screen
-/misc/rails_startup_screen.png
+[a relative link]/misc/rails_startup_screen.png
 
 
 This README would normally document whatever steps are necessary to get the
