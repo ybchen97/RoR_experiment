@@ -4,6 +4,8 @@ Name: Chen Yuan Bo
 
 Matric No.: A0183156A
 
+Write-up is in the root directory called cvwo_midterm_assignment.pdf
+
 ### Rails Start Up Screen
 ![picture](misc/rails_startup_screen.png)
 
